@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi 你好
 
+## 我是<span style='color:blue'>Microanswer</span>
+
+记录、编写所遇到的技术和知识。你的支持就是我更新的最大动力，请将本站推荐给更多人。
 <!--
 **MicroAnswer/MicroAnswer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
