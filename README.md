@@ -13,5 +13,5 @@ Website: [www.microanswer.cn](https://www.microanswer.cn)
 ## 请喝咖啡
 
 
-![wxpay](http://file.microanswer.cn/microanswer_wxpay.png)
-![wxpay](http://file.microanswer.cn/microanswer_alipay.png)
+![wxpay](http://file.microanswer.cn/microanswer_wxpay.png?n)
+![wxpay](http://file.microanswer.cn/microanswer_alipay.png?n)
