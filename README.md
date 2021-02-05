@@ -13,4 +13,4 @@ Website: [www.microanswer.cn](https://www.microanswer.cn)
 ## 请喝咖啡
 
 
-<img src='http://file.microanswer.cn/microanswer_wxpay.png?n' width=200> <img src='http://file.microanswer.cn/microanswer_alipay.png?n' width=200>
+<img src='http://file.microanswer.cn/microanswer_wxpay.png?n' width=200 onclick=';'> <img src='http://file.microanswer.cn/microanswer_alipay.png?n' width=200 onclick=";">
