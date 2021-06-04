@@ -18,4 +18,4 @@
 
 <img src='http://file.microanswer.cn/microanswer_wxpay.png?n' width=200 onclick=';'> <img src='http://file.microanswer.cn/microanswer_alipay.png?n' width=200 onclick=";">
 -->
-[![MicroAnswer's github stats](https://github-readme-stats.vercel.app/api?username=MicroAnswer)](https://github.com/anuraghazra/github-readme-stats)
+[![前往网站](https://github-readme-stats.vercel.app/api?username=MicroAnswer)](https://www.microanswer.cn)
