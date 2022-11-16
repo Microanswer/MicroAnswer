@@ -4,8 +4,8 @@ Hi there, I'm Microanswer
 
 <img align="right" alt="Microanswer" width="250px" src="http://file.microanswer.cn/pexels-photo-694587.jpeg?imageView2/1/w/500/h/500" />
 
-记录、编写所遇到的技术和知识，你的支持就是我更新的最大动力。\
-Your support is my greatest motivation to update by documenting and writing the skills and knowledge I encounter.
+我有一个改变整个互联网的想法，但你的屏幕太小了显示不出来。\
+I have an IDEA to change the entire Internet, but your screen is too small to display it.
 
 🌏 Website: [www.microanswer.cn](https://www.microanswer.cn)
 
